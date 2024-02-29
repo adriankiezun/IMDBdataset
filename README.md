@@ -1,5 +1,7 @@
 # IMDBdataset
 
+https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023
+
 Dataset containing information about movies which appears on IMDB website. Data was obtained by means of a web scraping in Python and combined with repository shared by IMDB. Data was preprocessed to include only movies which were released after 1970 and currently have over 50 000 ratings. Additionally there were selected only these movies whose budgets and gross' are denominated in USD to avoid discrepancies. Dataset contains 3348 observations described by 12 attributes.
 
 Attributes
