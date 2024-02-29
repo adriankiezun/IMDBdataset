@@ -1,4 +1,4 @@
-# IMDBdataset
+# IMDBdataset + Interactive Data Visualization in R
 
 https://www.kaggle.com/datasets/adriankiezun/imdb-dataset-2023
 
